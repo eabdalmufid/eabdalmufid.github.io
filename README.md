@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Abdul Mufid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img hight="550" width="300" alt="GIF" align="center" src="https://dl.kaskus.id/i.gyazo.com/0a621eb32bae998c60f17370c3061e8f.gif">
+<img hight="600" width="400" alt="GIF" align="center" src="https://dl.kaskus.id/i.gyazo.com/0a621eb32bae998c60f17370c3061e8f.gif">
 
 ```js
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
