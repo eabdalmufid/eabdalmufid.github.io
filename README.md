@@ -7,6 +7,14 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 ```
 
+### My Project
+* Suit Game : [Link](https://eabdalmufid.github.io/Suit-Game/)
+* Data Covid : [Link](https://eabdalmufid.github.io/cekcovid/)
+* Pesan Biodata : [Link](https://eabdalmufid.github.io/biodatapesan/)
+* Template RuangAdmin : [Link](https://eabdalmufid.github.io/RuangAdmin/)
+* Api Wilayah Indonesia : [Link](https://eabdalmufid.github.io/apiwilayahindonesia/)
+
+
 
 ###  Let's Connect
 <p align="center">
