@@ -1,5 +1,5 @@
 const typedTextSpan = document.querySelector(".typed-text"),
-    textArray = ["ONLINE", "Typing...","Hallo Gaes.","Apa Kabar?","Silahkan Tekan","Tulisan Me.!"],
+    textArray = ["ONLINE", "Typing...","Hallo Gaes.","Apa Kabar?","Silahkan Tekan","Tulisan Me."],
     typingDelay = 200,
     erasingDelay = 100,
     newTextDelay = 2e3;
